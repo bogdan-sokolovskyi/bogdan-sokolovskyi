@@ -1,45 +1,56 @@
 # Bogdan Sokolovskyi
 
-### Senior Frontend Engineer · React · Next.js · TypeScript
+**Senior Frontend Engineer · React · Next.js · TypeScript**
 
-I build multi-tenant commerce storefronts, operational CMS/CRM interfaces and reusable React UI systems. My focus is frontend architecture, clear customer journeys and reliable production delivery.
+I build commerce platforms, CMS/CRM applications and shared UI systems. My work spans frontend architecture, API integration and delivery from requirements through production support.
 
-**12+ years in frontend development · 7+ years with React · 4+ years with Next.js**
+**12+ years in frontend engineering · Kyiv, Ukraine · Open to remote roles**
 
-Based in Ukraine. Open to remote Senior Frontend Engineer, React and Next.js opportunities.
+[Portfolio](https://www.bogdansokolovskyi.com/) · [Architecture case studies](https://www.bogdansokolovskyi.com/#work) · [Resume](https://www.bogdansokolovskyi.com/resume/) · [LinkedIn](https://www.linkedin.com/in/sokolovskyi/) · [Email](mailto:hello@bogdansokolovskyi.com)
 
-[Portfolio](https://www.bogdansokolovskyi.com/) · [Resume](https://www.bogdansokolovskyi.com/resume/) · [LinkedIn](https://www.linkedin.com/in/sokolovskyi/) · [Email](mailto:hello@bogdansokolovskyi.com)
+## Selected production work
 
-## Engineering focus
+### N-SIX · Senior Front-End Developer · January 2023–May 2026
 
-| Area | My work |
+I contributed to a shared commerce platform used across multiple brands and markets, with frontend ownership across storefronts, operational applications and reusable packages.
+
+| Product area | My frontend contribution |
 | --- | --- |
-| Multi-tenant commerce | Shared Next.js storefront architecture, runtime tenant configuration, catalogue-to-checkout flows, SSR/ISR, caching and revalidation. |
-| CMS & CRM | Complex forms, validation, data tables, filters, bulk actions and permission-aware interfaces connected to backend APIs. |
-| Shared UI | React component and icon packages, TypeScript APIs, Mantine, Storybook documentation and npm delivery. |
-| Product delivery | Requirements, frontend design, API integration, code review, release and production support. |
+| **Multi-tenant commerce** | Next.js architecture with runtime tenant configuration; catalogue, search, cart, checkout and account flows; GraphQL/Apollo integration; SSR/ISR, caching, on-demand revalidation and technical SEO. |
+| **CMS & CRM operations** | Complex forms, validation, tables, filters, bulk actions and permission-aware interfaces; reusable domain components and REST API integration. |
+| **Shared UI systems** | React component and icon packages with TypeScript, Mantine and Storybook; reusable interaction patterns and package delivery across applications. |
 
-At **N-SIX (January 2023–May 2026)**, I contributed across these connected product areas. Earlier work includes SaaS CRM and management-accounting interfaces at **Bimp**, and trading dashboards, financial charts and real-time integrations at **Flexible Tech / Gerchik & Co**.
+**Public storefront examples from this platform**
+
+| Storefront | Storefront |
+| --- | --- |
+| [InSale](https://insale.com.ua/) | [Cyfralux](https://cyfralux.pl/) |
+| [FOSSiBOT Store](https://fossibot-store.com.ua/) | [COM.COM](https://com.com.ua/) |
+| [Deltaline](https://deltaline.com.ua/) | [DJI Power](https://dji-power.com.ua/) |
+| [IEETek](https://ieetek.com.ua/) | [Tehnonet](https://tehnonet.com.ua/) |
+| [ALLPOWERS](https://allpowers.com.ua/) | [PECRON](https://pecron.com.ua/) |
+
+The platform also includes **ECM** for catalogue, pricing and storefront operations, and **N-SIX Console** for sales, customers, orders and logistics. These products require authorised access.
+
+[Explore platform scope and delivery examples →](https://www.bogdansokolovskyi.com/#archive)
+
+## Earlier experience
+
+- **BIMP · React Front-End Developer · September 2020–October 2022**  
+  SaaS CRM and management-accounting interfaces with React, TypeScript and Redux. Dynamic reducers for product modules, complex financial workflows and integration with accounting-system APIs.
+- **Flexible Tech / Gerchik & Co · React Front-End Developer · August 2018–July 2020**  
+  Trading dashboards, customer-account interfaces and risk-management tools. Modular React/Redux interfaces, Highcharts Stock and real-time data integration.
+- **Colorisoft / Independent Freelance · Frontend Developer & Web Designer · 2013–2018**  
+  Responsive websites, e-learning interfaces and WordPress products for international clients. UX/UI design, JavaScript, HTML/CSS, accessibility and technical SEO.
 
 ## Technology stack
 
-- **Frontend:** React, Next.js App Router, TypeScript, JavaScript, HTML, CSS/Sass.
-- **Data:** GraphQL, Apollo Client, REST APIs, Redux Toolkit, WebSockets, React Hook Form.
-- **UI engineering:** Mantine, Storybook, design systems, responsive interfaces and accessibility.
-- **Quality & delivery:** Jest, Vitest, React Testing Library, Git, GitLab CI/CD, Docker, web performance and technical SEO.
+- **Frontend:** React, Next.js App Router, TypeScript, JavaScript, HTML, CSS/Sass, Vite.
+- **State, data & forms:** GraphQL, Apollo Client, REST APIs, Redux Toolkit, Recoil, WebSockets, React Hook Form.
+- **UI engineering:** Mantine, Storybook, component architecture, design systems, responsive UI and accessibility.
+- **Quality & delivery:** Jest, Vitest, React Testing Library, Git, code review, GitLab CI/CD, Docker, web performance and technical SEO.
 
-## Production work
+Commercial source code is private. My portfolio documents the product context, my frontend responsibilities and architecture trade-offs.
 
-My [portfolio case studies](https://www.bogdansokolovskyi.com/) explain the architecture, trade-offs and my contribution within the platform team.
-
-Public storefront examples include [InSale](https://insale.com.ua/), [Cyfralux](https://cyfralux.pl/), [FOSSiBOT Store](https://fossibot-store.com.ua/), [COM.COM](https://com.com.ua/), [Deltaline](https://deltaline.com.ua/), [DJI Power](https://dji-power.com.ua/), [IEETek](https://ieetek.com.ua/), [Tehnonet](https://tehnonet.com.ua/), [ALLPOWERS](https://allpowers.com.ua/) and [PECRON](https://pecron.com.ua/).
-
-The portfolio also describes **ECM** for commerce management and **N-SIX Console** for CRM and operations. These systems require authorised access.
-
-Commercial source code is private. Public repositories here include earlier projects and experiments; the portfolio provides the context for my recent production work.
-
-## Let's talk
-
-Looking for a senior frontend engineer for a commerce platform, a complex business interface or a shared UI system?
-
-**[hello@bogdansokolovskyi.com](mailto:hello@bogdansokolovskyi.com)**
+**Open to remote Senior Frontend Engineer, React and Next.js opportunities.**  
+[hello@bogdansokolovskyi.com](mailto:hello@bogdansokolovskyi.com)
