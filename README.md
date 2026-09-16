@@ -22,13 +22,12 @@ I contributed to a shared commerce platform used across multiple brands and mark
 
 **Public storefront examples from this platform**
 
-| Storefront | Storefront |
+| Product focus | Public storefronts |
 | --- | --- |
-| [InSale](https://insale.com.ua/) | [Cyfralux](https://cyfralux.pl/) |
-| [FOSSiBOT Store](https://fossibot-store.com.ua/) | [COM.COM](https://com.com.ua/) |
-| [Deltaline](https://deltaline.com.ua/) | [DJI Power](https://dji-power.com.ua/) |
-| [IEETek](https://ieetek.com.ua/) | [Tehnonet](https://tehnonet.com.ua/) |
-| [ALLPOWERS](https://allpowers.com.ua/) | [PECRON](https://pecron.com.ua/) |
+| Retail & commerce | [InSale](https://insale.com.ua/) · [Cyfralux](https://cyfralux.pl/) |
+| Consumer electronics | [COM.COM](https://com.com.ua/) · [Deltaline](https://deltaline.com.ua/) · [Tehnonet](https://tehnonet.com.ua/) |
+| Energy commerce | [FOSSiBOT Store](https://fossibot-store.com.ua/) · [IEETek](https://ieetek.com.ua/) · [ALLPOWERS](https://allpowers.com.ua/) |
+| Branded storefronts | [DJI Power](https://dji-power.com.ua/) · [PECRON](https://pecron.com.ua/) |
 
 The platform also includes **ECM** for catalogue, pricing and storefront operations, and **N-SIX Console** for sales, customers, orders and logistics. These products require authorised access.
 
